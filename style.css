@@ -1,0 +1,38 @@
+div {
+    width: 400px;
+    height: 400px;
+    margin: 50px auto;
+
+    /* Bordas e arredondamento */
+    border: 15px solid #f4e422;
+    border-radius: 20%;
+
+    /* Imagem de fundo */
+    background-image: url("girassol.jpeg");
+    background-size: cover;
+
+    /* Sombra da caixa */
+    box-shadow: inset 30px 25px 20px 5px rgb(42, 177, 231);
+
+    /* Contorno por fora */
+    outline: 15px double rgb(36, 50, 22);
+
+    /* Preenchimento interno */
+    padding: 30px;
+    text-align: center;
+}
+
+p {
+    font-style: oblique;
+    font-size: 90px;
+    color: rgb(36, 50, 22);
+    font-weight: bold;
+    padding-top: 80px;
+}
+
+ footer {
+     background-color: #2ab1e7;
+     color: #fff;
+     padding: 5px;
+     text-align: center;
+ }
