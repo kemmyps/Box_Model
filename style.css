@@ -8,14 +8,14 @@ div {
     border-radius: 20%;
 
     /* Imagem de fundo */
-    background-image: url("girassol.jpeg");
+    background-image: url("redhead_computer.png");
     background-size: cover;
 
     /* Sombra da caixa */
-    box-shadow: inset 30px 25px 20px 5px rgb(42, 177, 231);
+    box-shadow: inset 30px 25px 20px 5px rgb(232, 123, 14);
 
     /* Contorno por fora */
-    outline: 15px double rgb(36, 50, 22);
+    outline: 15px double rgb(232, 123, 14);
 
     /* Preenchimento interno */
     padding: 30px;
@@ -24,14 +24,14 @@ div {
 
 p {
     font-style: oblique;
-    font-size: 90px;
-    color: rgb(36, 50, 22);
+    font-size: 50px;
+    color: rgb(245, 224, 118);
     font-weight: bold;
     padding-top: 80px;
 }
 
  footer {
-     background-color: #2ab1e7;
+     background-color: #e87b0e;
      color: #fff;
      padding: 5px;
      text-align: center;
